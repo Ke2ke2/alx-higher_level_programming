@@ -1,1 +1,1 @@
-this repo contains solutions to more data structures
+this repo contains solutions to python import modules
